@@ -29,6 +29,7 @@ final class BreedsViewController: UIViewController {
     
     private lazy var viewModel = BreedsVM()
     var presenter = BreedsPresenter()
+    let reviewService = ReviewService.shared
     
     // data, move mvvm
     override func viewDidLoad() {
@@ -37,6 +38,13 @@ final class BreedsViewController: UIViewController {
         fetchCategories()
         viewModel.view = self
         viewModel.viewDidLoad()
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        let deadline = DispatchTime.now() + .seconds(15)
+        DispatchQueue.main.asyncAfter(deadline: deadline) { [weak self] in
+            self?.reviewService.requestReview()
+        }
     }
     
     private func registerCell() {

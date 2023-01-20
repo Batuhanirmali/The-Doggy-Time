@@ -9,5 +9,7 @@ target 'DogProject' do
 
 pod 'IQKeyboardManager'
 pod 'ProgressHUD'
+pod 'Firebase Messaging'
+pod 'Firebase/Core'
 
 end

@@ -18,18 +18,18 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="Ghu-MK-tbi">
-                                <rect key="frame" x="46.666666666666657" y="250.66666666666666" width="300" height="375.66666666666674"/>
+                                <rect key="frame" x="29" y="253" width="335.33333333333326" height="371"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Ellipse2" translatesAutoresizingMaskIntoConstraints="NO" id="Hjj-pB-ZIb">
-                                        <rect key="frame" x="0.0" y="0.0" width="300" height="300"/>
+                                        <rect key="frame" x="17.666666666666657" y="0.0" width="300" height="300"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="300" id="I0G-6t-HdT"/>
                                             <constraint firstAttribute="width" constant="300" id="XlV-ol-WH8"/>
                                         </constraints>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The Doggy Time" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HWW-ZR-Og9">
-                                        <rect key="frame" x="17.666666666666657" y="308" width="264.33333333333337" height="67.666666666666686"/>
-                                        <fontDescription key="fontDescription" name="PartyLetPlain" family="Party LET" pointSize="58"/>
+                                        <rect key="frame" x="0.0" y="308" width="335.33333333333331" height="63"/>
+                                        <fontDescription key="fontDescription" name="PingFangHK-Thin" family="PingFang HK" pointSize="45"/>
                                         <color key="textColor" red="0.19215688110000001" green="0.2470588088" blue="0.30196079609999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <color key="highlightedColor" red="0.14901961389999999" green="0.2588235438" blue="0.27843138579999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                     </label>
