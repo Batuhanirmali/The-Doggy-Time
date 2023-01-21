@@ -50,11 +50,11 @@
 - ./dogs.json
 <img src="https://user-images.githubusercontent.com/103661354/209871565-882669fd-a382-4e36-9525-a1af69afd478.png" width="900" height="530" />
 
-## 📝 Next Update 1.0.1
-- Request review
-- Change display name
-- Bugs and fixing
-- Change Launchscreen Title
+## 📝 Next Update 1.0.1 (Available)
+- Request review ✅
+- Change display name ✅
+- Bugs and fixing ✅
+- Change Launchscreen Title ✅
 
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/103661354/209570693-3359fbf8-1861-4497-82f4-c776f8dfd281.png" width="250" height="530" />
