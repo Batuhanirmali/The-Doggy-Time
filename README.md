@@ -9,7 +9,7 @@
 -  ❤️ You can add dog breed and name to favorites.
 -  🌄 You can find pictures suitable for dog names with random pictures.
 
--  ✈️ You can access and download the application App Store: **[The Doggy Time](https://github.com/Batuhanirmali)**
+-  ✈️ You can access and download the application App Store: **[The Doggy Time](https://apps.apple.com/tr/app/the-doggy-time/id1661468869?l=tr)**
 
 -  How to reach me **[📩](batuirmali@gmail.com)**
 
